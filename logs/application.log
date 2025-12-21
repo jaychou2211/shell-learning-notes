@@ -1,0 +1,20 @@
+2025-01-15 10:00:01 INFO Application started successfully
+2025-01-15 10:00:05 INFO Connected to database
+2025-01-15 10:01:23 ERROR Failed to process payment - timeout
+2025-01-15 10:02:45 INFO User login: user123
+2025-01-15 10:03:12 ERROR Database connection lost
+2025-01-15 10:03:15 CRITICAL Unable to recover database connection
+2025-01-15 10:04:00 INFO Database connection restored
+2025-01-15 10:05:30 ERROR Invalid user credentials
+2025-01-15 10:06:45 INFO User logout: user123
+2025-01-15 10:07:12 ERROR Payment gateway timeout
+2025-01-15 10:08:00 FATAL System memory exhausted
+2025-01-15 10:08:05 ERROR Cannot allocate memory
+2025-01-15 10:09:00 INFO Service restarted
+2025-01-15 10:10:15 ERROR File not found: config.yml
+2025-01-15 10:11:30 INFO Configuration loaded from default
+2025-01-15 10:12:00 ERROR Network timeout
+2025-01-15 10:13:15 ERROR API rate limit exceeded
+2025-01-15 10:14:00 INFO Cache cleared
+2025-01-15 10:15:30 CRITICAL Disk space critically low
+2025-01-15 10:16:45 ERROR Cannot write to disk

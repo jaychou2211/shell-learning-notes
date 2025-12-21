@@ -1,0 +1,20 @@
+2025-01-15 09:00:00 INFO System boot completed
+2025-01-15 09:01:00 INFO Network interfaces initialized
+2025-01-15 09:02:00 ERROR Failed to mount /dev/sdb1
+2025-01-15 09:03:00 INFO SSH daemon started
+2025-01-15 09:04:00 ERROR Authentication failed for root
+2025-01-15 09:05:00 FATAL Kernel panic - not syncing
+2025-01-15 09:06:00 ERROR CPU temperature too high
+2025-01-15 09:07:00 INFO System cooling activated
+2025-01-15 09:08:00 ERROR Network interface eth0 down
+2025-01-15 09:09:00 CRITICAL RAID array degraded
+2025-01-15 09:10:00 ERROR Disk /dev/sda showing bad sectors
+2025-01-15 09:11:00 INFO Filesystem check scheduled
+2025-01-15 09:12:00 ERROR Memory allocation failure
+2025-01-15 09:13:00 CRITICAL Security breach detected
+2025-01-15 09:14:00 ERROR Unauthorized access attempt
+2025-01-15 09:15:00 INFO Firewall rules updated
+2025-01-15 09:16:00 ERROR Service nginx failed to start
+2025-01-15 09:17:00 INFO Service nginx started
+2025-01-15 09:18:00 ERROR MySQL server crashed
+2025-01-15 09:19:00 FATAL Cannot recover database
